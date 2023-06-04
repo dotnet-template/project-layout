@@ -1,0 +1,7 @@
+# Reference: https://www.jetbrains.com/help/rider/Using_EditorConfig.html#what_is
+root = true
+
+[*]
+charset = utf-8
+indent_size = 2
+max_line_length = 100
